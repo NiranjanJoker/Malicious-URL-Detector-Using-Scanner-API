@@ -5,5 +5,7 @@ A website that helps the user to analyze about the URL. It also provides the use
 ![229127708-1a4c32db-c14d-4bf5-aa11-18744620dea7](https://user-images.githubusercontent.com/68268326/229129564-a56d0b8c-95f2-4661-a6ee-92c18d1010c9.png)
 ![229127762-1601e808-6054-4a2e-8172-9519fd94b5e4](https://user-images.githubusercontent.com/68268326/229129744-81605255-6fa4-4032-b1ff-9bfeaeb4da79.png)
 ![229127827-533921a2-9c33-47d1-969b-c5c145f3099b](https://user-images.githubusercontent.com/68268326/229129886-0f5728fe-97e7-4b2f-97a5-c82054fa74c0.png)
+![229128182-181e8051-1f06-4ce5-8b10-19c75d4e00c7](https://user-images.githubusercontent.com/68268326/229130188-a1f72a1f-500b-4249-8a30-20d583511442.png)
+![229128272-6c76f20f-e3fa-4a7a-a2b0-51954fa1706d](https://user-images.githubusercontent.com/68268326/229130517-8266a936-9196-4474-84fb-b8013aa84dfe.png)
 
 
